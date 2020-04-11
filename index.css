@@ -1,15 +1,13 @@
 body{
     background-color: #2c3e50;
-}
-
-
-body{
     color: #34495e;
+    text-align: center;
 }
+
 
 .form{
     display: none;
-    text-align: center;
+    
 }
 .greetings{
     display: none;
@@ -40,14 +38,15 @@ body{
 
 .js-greetings {
     color: white;
-    text-align: center;
+    
     font-size: 40px;
     
 }
 
 .js-toDoList {
     color: white;
-    margin: 50px 300px 300px 450px;
     font-size: 25px;
-    
+    display:  table;
+    margin-left: auto;
+    margin-right: auto;
 }
